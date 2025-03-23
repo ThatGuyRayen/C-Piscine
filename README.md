@@ -49,12 +49,14 @@ Rush projects are **intensive weekend challenges** that test problem-solving, co
 Clone the repository to explore the projects:  
 ```bash
 git clone https://github.com/yourusername/42-Berlin-Piscine.git
-
+```
 
 Navigate to any project folder and compile the code using gcc or make:
+```bash
 cd C_02/
 gcc -Wall -Wextra -Werror my_code.c -o my_program
 ./my_program
+```
 
 
 ## 🌟 Acknowledgments
