@@ -76,7 +76,7 @@ Your collective support has been invaluable in my growth and learning. Thank you
 Let's stay connected! You can reach out to me through the following platforms:
 
 - **GitHub**: [ThatguyRayen](https://github.com/ThatguyRayen)
-- **LinkedIn**: [yourprofile](www.linkedin.com/in/tanmay-pandya-b19b94349)
+- **LinkedIn**: [Tanmay Pandya](www.linkedin.com/in/tanmay-pandya-b19b94349)
 - **Email**: [tanmaypandya78@gmail.com]
 
 Feel free to connect—I'm always open to discussing new ideas, collaborations, or just having a chat about technology, programming, and more!
